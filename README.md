@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Shri Vishnu here 😃
 
+- 🌱 I’m currently learning Data Science using Python, Tableau, mySQL
+- 🔭 I’m currently working on deployment of machine learning models
 
-🌱 I’m currently learning Data Science using Python, Tableau, mySQL
 #### Data Science Projects:
   - <a href=https://github.com/shrivishnu-p/credit-eda-case-study>Identification of Loan Defaulters using Exploratory Data Analysis</a> 💳
   - <a href=https://github.com/shrivishnu-p/bike-demand-prediction>Bike Demand Prediction using Linear Regression</a> 🚲
 
-🔭 I’m currently working on deployment of machine learning models
 #### Currently deployed projects:
 - <a href=https://github.com/shrivishnu-p/wordcloud-app>Wordcloud Generator App</a> ☁️
 - <a href=https://github.com/shrivishnu-p/cluster-app>Country Clustering App</a> 🗺️
