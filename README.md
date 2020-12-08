@@ -8,6 +8,7 @@
   - <a href=https://github.com/shrivishnu-p/bike-demand-prediction>Bike Demand Prediction using Linear Regression</a> 🚲🚴
   - <a href=https://github.com/shrivishnu-p/lead-score-generation>Lead Score Generation using Logisitic Regression</a> 👥💯
   - <a href=https://github.com/shrivishnu-p/cluster-app/tree/main/Country%20Clustering%20Notebook>Clustering of Countries</a> 🌍
+  - <a href=https://github.com/shrivishnu-p/house-price-prediction>House Price Prediction using Advanced Regression</a> 🏘️💰
   
 #### Currently deployed projects:
 - <a href=https://github.com/shrivishnu-p/wordcloud-app>Wordcloud Generator App</a> ☁️
