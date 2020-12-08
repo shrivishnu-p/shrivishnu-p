@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on deployment of machine learning models
+<!-- - 🔭 I’m currently working on deployment of machine learning models
+
 - 🌱 I’m currently learning machine learning using Python 
 
-The current deployment projects:
+Currently deployed projects:
 - <a href=https://github.com/shrivishnu-p/wordcloud-app>Wordcloud Generator App</a> ☁️
 - <a href=https://github.com/shrivishnu-p/cluster-app>Country Clustering App</a> 🗺️
 - <a href=https://github.com/shrivishnu-p/titanic-app>Titanic Survivor Prediction App</a> 🛳️🏊
