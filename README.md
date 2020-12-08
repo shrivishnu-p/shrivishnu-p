@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on deployment of machine learning models -->
 
-- 🌱 I’m currently learning machine learning using Python 
+- 🌱 I’m currently learning ML using Python, Tableau, mySQL 
 
 Currently deployed projects:
 - <a href=https://github.com/shrivishnu-p/wordcloud-app>Wordcloud Generator App</a> ☁️
