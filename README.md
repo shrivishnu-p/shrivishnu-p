@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- - 🔭 I’m currently working on deployment of machine learning models
+<!-- - 🔭 I’m currently working on deployment of machine learning models -->
 
 - 🌱 I’m currently learning machine learning using Python 
 
